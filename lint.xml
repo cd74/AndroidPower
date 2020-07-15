@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/example/t5/BatteryStatsHelper.java" />
+    </issue>
+    <issue id="Recycle">
+        <ignore path="src/com/example/t5/BatteryStatsHelper.java" />
+    </issue>
+</lint>
